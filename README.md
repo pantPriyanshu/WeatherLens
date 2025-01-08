@@ -1,4 +1,4 @@
-# Weather App 🌦️
+# WeatherLens 🌦️
 
 A dynamic weather application built with HTML, CSS, and JavaScript that provides real-time weather updates. The app fetches weather information based on the user's current location or a searched city using the OpenWeatherMap API.
 
@@ -17,9 +17,9 @@ A dynamic weather application built with HTML, CSS, and JavaScript that provides
 
 ## Screenshots 📸
 
-![Weather App Screenshot](./assets/screenshot1.png)
-![Weather App Screenshot](./assets/Screenshot2.png)
-![Weather App Screenshot](./assets/Screenshot3.png)
+![WeatherLens Screenshot](./assets/screenshot1.png)
+![WeatherLens Screenshot](./assets/Screenshot2.png)
+![WeatherLens Screenshot](./assets/Screenshot3.png)
 
 ---
 
