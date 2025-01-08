@@ -18,8 +18,8 @@ A dynamic weather application built with HTML, CSS, and JavaScript that provides
 ## Screenshots 📸
 
 ![Weather App Screenshot](./assets/screenshot1.png)
-![Weather App Screenshot](./assets/screenshot2.png)
-![Weather App Screenshot](./assets/screenshot3.png)
+![Weather App Screenshot](./assets/Screenshot2.png)
+![Weather App Screenshot](./assets/Screenshot3.png)
 
 ---
 
